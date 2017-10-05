@@ -14,4 +14,4 @@ BCL se organiza como un laboratorio de ideas y experimentación, donde los parti
 2. Presiona el botón *fork*. Esto genera automáticamente una copia del mismo en tu perfil.
 3. Modifica el fichero members.md, añadiéndote a la lista.
 4. Presiona *Pull Request* para enviárnoslo de nuevo.
-4. Tras realizar nosotros el *Merge* del *Pull Request*, te enviaremos una invitación a tu email o usuario de github, para unirte al **Team de Blockchain Commnity Lab**.
+5. Tras realizar nosotros el *Merge* del *Pull Request*, te enviaremos una invitación a tu email o usuario de github, para unirte al **Team de Blockchain Commnity Lab**.
