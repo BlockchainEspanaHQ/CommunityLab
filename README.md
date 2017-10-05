@@ -15,3 +15,8 @@ BCL se organiza como un laboratorio de ideas y experimentación, donde los parti
 3. Modifica el fichero members.md, añadiéndote a la lista.
 4. Presiona *Pull Request* para enviárnoslo de nuevo.
 5. Tras realizar nosotros el *Merge* del *Pull Request*, te enviaremos una invitación a tu email o usuario de github, para unirte al **Team de Blockchain Commnity Lab**.
+
+----
+## ¿Qué puedes hacer siendo miembro de BCL?
+Podrás commitear los cambios.
+Podrás hacer modificaciones en la wiki de BCL
