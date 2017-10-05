@@ -1,4 +1,4 @@
-# ¿Te gustaría participar en el Team de Blockchain Community Lab?
+## ¿Quieres participar en el Team de Blockchain Community Lab?
 
 ----
 ## ¿Qué es Blockchain Community Lab?
@@ -18,5 +18,5 @@ BCL se organiza como un laboratorio de ideas y experimentación, donde los parti
 
 ----
 ## ¿Qué puedes hacer siendo miembro de BCL?
-Podrás commitear los cambios.
-Podrás hacer modificaciones en la wiki de BCL
+* Podrás commitear los cambios
+* Podrás hacer modificaciones en la wiki de BCL
