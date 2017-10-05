@@ -1,4 +1,4 @@
-#¿Te gustaría participar en el Team de Blockchain Community Lab?
+#¿Te gustaría participar en el Team del Lab?
 
 
 ## ¿Qué es Blockchain Community Lab?
