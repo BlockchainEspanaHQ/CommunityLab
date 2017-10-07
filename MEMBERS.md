@@ -8,4 +8,5 @@
 * Javier Pérez de Pedro javier.perezdepedro@gmail.com
 * Eduardo Antuña Díez eduadiez@gmail.com
 * Gerardo de Miguel González gdmiguel@gmail.com
+* Gustavo Segovia sepu85@gmail.com
 
