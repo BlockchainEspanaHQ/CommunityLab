@@ -1,0 +1,20 @@
+#
+# DEVELOPMENT VERSION
+#
+
+version: '3'
+
+services:
+  ethereum-behq:
+    image: ethereum/client-go
+    container_name: "ethereum-behq"        
+    volumes:
+      - ./data:/root/.ethereum/
+      - ./files/genesis.json:/root/genesis.json:ro
+      - ./files/keystore:/root/.ethereum/keystore:rw
+      - ./files/password:/root/files/password:ro
+    ports:
+      - "${PORT:-30303}:${PORT:-30303}"
+      - "${PORT:-30303}:${PORT:-30303}/udp"
+      - "${RPCPORT:-8545}:${RPCPORT:-8545}"
+    command: --identity "ethereum-behq" --port ${PORT:-30303} --rpc --rpcport ${RPCPORT:-8545} --rpcaddr "${HOSTNAME:-0.0.0.0}" --rpcapi "${RPCAPI:-admin,db,eth,debug,miner,net,shh,txpool,personal,web3}" --ws --wsaddr "${HOSTNAME:-0.0.0.0}" --verbosity ${VERBOSITY:-3} --rpccorsdomain='*' --networkid=${NETWORKID:-201710} --mine --minerthreads=${MINERTHREADS:-1}

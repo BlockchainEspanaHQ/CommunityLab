@@ -1,0 +1,14 @@
+#
+# DEVELOPMENT VERSION
+#
+
+version: '3'
+
+services:
+  ethereum-behq:
+    image: ethereum/client-go
+    container_name: "ethereum-behq"
+    volumes:
+      - ./data:/root/.ethereum/
+      - ./files/genesis.json:/root/genesis.json:ro    
+    command: --identity "ethereum-behq" --nodiscover --maxpeers 0 --verbosity 3 --networkid=3333  init /root/genesis.json

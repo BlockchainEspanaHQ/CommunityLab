@@ -1,0 +1,7 @@
+
+# Ignores de ethereum-behq
+ethereum-behq/data/
+ethereum-behq/files/keystore/*
+!ethereum-behq/dfiles/keystore/UTC--2017-10-19T23-14-50.790333682Z--6a45ab210b8ad40b34167cd49be056ce2ac2f864
+
+
