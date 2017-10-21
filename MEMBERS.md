@@ -1,5 +1,5 @@
 * Xus Zoyo
-* Ainhoa C. Ejerique 
+* Ainhoa  Ejerique 
 * Angeles Blanco 
 * Carlos Guadián 
 * José Antonio Bravo Mateu
