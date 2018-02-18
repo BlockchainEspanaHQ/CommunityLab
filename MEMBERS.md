@@ -17,3 +17,4 @@
 * Aitor Ibañez
 * Pablo Escudero Lampreabe
 * Daniel Villalobos
+* Anthony Bonifacio Alvarez
