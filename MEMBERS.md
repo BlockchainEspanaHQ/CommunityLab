@@ -18,3 +18,4 @@
 * Pablo Escudero Lampreabe
 * Daniel Villalobos
 * Anthony Bonifacio Alvarez
+* Valentí Gàmez Rojas
